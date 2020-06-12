@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/demo-react-native-app/static/css/main.76515eb9.chunk.css",
+    "main.js": "/demo-react-native-app/static/js/main.b5d31e7a.chunk.js",
+    "main.js.map": "/demo-react-native-app/static/js/main.b5d31e7a.chunk.js.map",
+    "runtime-main.js": "/demo-react-native-app/static/js/runtime-main.848d9246.js",
+    "runtime-main.js.map": "/demo-react-native-app/static/js/runtime-main.848d9246.js.map",
+    "static/css/2.89f067aa.chunk.css": "/demo-react-native-app/static/css/2.89f067aa.chunk.css",
+    "static/js/2.fcf6f63d.chunk.js": "/demo-react-native-app/static/js/2.fcf6f63d.chunk.js",
+    "static/js/2.fcf6f63d.chunk.js.map": "/demo-react-native-app/static/js/2.fcf6f63d.chunk.js.map",
+    "index.html": "/demo-react-native-app/index.html",
+    "precache-manifest.9742108d573013cfd46fc9e7161c6168.js": "/demo-react-native-app/precache-manifest.9742108d573013cfd46fc9e7161c6168.js",
+    "service-worker.js": "/demo-react-native-app/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/demo-react-native-app/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.76515eb9.chunk.css.map": "/demo-react-native-app/static/css/main.76515eb9.chunk.css.map",
+    "static/js/2.fcf6f63d.chunk.js.LICENSE.txt": "/demo-react-native-app/static/js/2.fcf6f63d.chunk.js.LICENSE.txt",
+    "static/media/chamada_api_ios.png": "/demo-react-native-app/static/media/chamada_api_ios.5ae0493a.png",
+    "static/media/chamda_api_android.png": "/demo-react-native-app/static/media/chamda_api_android.99e578aa.png",
+    "static/media/dropdown_ios.png": "/demo-react-native-app/static/media/dropdown_ios.894012b8.png",
+    "static/media/ecra_dropdown_android.png": "/demo-react-native-app/static/media/ecra_dropdown_android.98dddba4.png",
+    "static/media/ecra_pf_aguarde_android.png": "/demo-react-native-app/static/media/ecra_pf_aguarde_android.032f888c.png",
+    "static/media/initAndroid.jpg": "/demo-react-native-app/static/media/initAndroid.ed42e9b5.jpg",
+    "static/media/menu_inicial_ios.png": "/demo-react-native-app/static/media/menu_inicial_ios.9076eda8.png",
+    "static/media/pf_aguarde_ios.png": "/demo-react-native-app/static/media/pf_aguarde_ios.dbadbd25.png",
+    "static/media/resp_servidor_ios.png": "/demo-react-native-app/static/media/resp_servidor_ios.bfbd974c.png",
+    "static/media/resposta_api_android.png": "/demo-react-native-app/static/media/resposta_api_android.16873699.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.848d9246.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.fcf6f63d.chunk.js",
+    "static/css/main.76515eb9.chunk.css",
+    "static/js/main.b5d31e7a.chunk.js"
+  ]
+}
